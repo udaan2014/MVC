@@ -1,0 +1,23 @@
+using DropdownExplained.Controllers;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace DropdownExplained.Models
+{
+    public class ViewModel
+    {        
+
+        
+        public int SelectedFlavorId { get; set; }
+         
+        public IEnumerable<SelectListItem> FlavorItems
+        {
+            get;
+            set;
+        }
+    }
+}

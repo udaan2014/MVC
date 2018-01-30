@@ -1,0 +1,59 @@
+using DropdownExplained.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace DropdownExplained.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+        
+           
+
+        public ActionResult DropDownData()
+        {
+          
+                List<IceCreamFlavor> _flavors = new List<IceCreamFlavor>() {
+                new IceCreamFlavor() { Id=1,Name="Vanilla"},
+                new IceCreamFlavor() { Id=2,Name="Chocolate"},
+            };
+
+        var model = new ViewModel();
+            model.FlavorItems = new SelectList(_flavors,"Id","Name");
+            return View(model);
+       }
+        [HttpPost]
+        public ActionResult DropDownData(ViewModel model)
+        {
+
+            return Content("Selected Id:" + model.SelectedFlavorId);
+          //  return View(model);
+        }
+    }
+    public class IceCreamFlavor
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+   
+}

@@ -1,0 +1,12 @@
+@model DropdownExplained.Models.ViewModel
+@{
+    ViewBag.Title = "DropDownData";
+}
+
+<h2>DropDownData</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.SelectedFlavorId)
+    @Html.DropDownListFor(m => m.SelectedFlavorId, Model.FlavorItems)
+    <input type="submit" value="Submit" />
+}
