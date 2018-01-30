@@ -1,0 +1,4 @@
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.Common\bin\Debug\EmployeeManagement.Common.dll
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.Common\bin\Debug\EmployeeManagement.Common.pdb
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.Common\obj\Debug\EmployeeManagement.Common.dll
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.Common\obj\Debug\EmployeeManagement.Common.pdb

@@ -1,0 +1,7 @@
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\EmployeeManagement.DataAccess.dll
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\EmployeeManagement.DataAccess.pdb
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\EmployeeManagement.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\EmployeeManagement.DataAccess.dll
+c:\users\t-anu\documents\visual studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\obj\Debug\EmployeeManagement.DataAccess.pdb
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\EmployeeManagement.Common.dll
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.DataAccess\bin\Debug\EmployeeManagement.Common.pdb

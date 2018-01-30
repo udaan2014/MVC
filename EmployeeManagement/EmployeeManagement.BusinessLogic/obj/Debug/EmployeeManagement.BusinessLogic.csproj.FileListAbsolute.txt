@@ -1,0 +1,9 @@
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.BusinessLogic.dll
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.BusinessLogic.pdb
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.Common.dll
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.DataAccess.dll
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.Common.pdb
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\bin\Debug\EmployeeManagement.DataAccess.pdb
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\obj\Debug\EmployeeManagement.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\obj\Debug\EmployeeManagement.BusinessLogic.dll
+C:\Users\t-anu\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement.BusinessLogic\obj\Debug\EmployeeManagement.BusinessLogic.pdb
